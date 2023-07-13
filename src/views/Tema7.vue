@@ -10,7 +10,7 @@
     
     p.mb-4(data-aos="fade") Conocer el marco normativo que regula la contaminación del aire en el país es muy importante para establecer las acciones de prevención y control de los contaminantes que afectan en la actualidad.
 
-    .row.fondo-tema7.align-items-center.py-5
+    .row.fondo-tema7.align-items-center.py-4.mb-5
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.align-items-center
 
@@ -24,8 +24,8 @@
                 h3.t-green.text-center.mb-4 Normas asociadas
                 .row.justify-content-center.mb-4
                   .col-md-3.col-5
-                    img.px-md-0(src='@/assets/curso/temas/tema7/ico1.svg' alt='Icono decorativo')
-                ul.lista-ul--color.color-secundario.mb-0
+                    img.px-md-0(src='@/assets/curso/temas/tema7/ico1.svg' alt='')
+                ul.lista-ul--color.color-secundario.mb-0.fa-ul
                   li
                     i.fas.fa-check
                     | Resolución 2254 de 2017. Por la cual se adopta la norma de calidad del aire ambiente y se dictan otras disposiciones.
@@ -41,8 +41,8 @@
                 h3.t-green2.text-center.mb-4 Protocolos asociados
                 .row.justify-content-center.mb-4
                   .col-md-3.col-5
-                    img.px-md-0(src='@/assets/curso/temas/tema7/ico2.svg' alt='Icono decorativo')
-                ul.lista-ul--color.color-secundario.mb-0
+                    img.px-md-0(src='@/assets/curso/temas/tema7/ico2.svg' alt='')
+                ul.lista-ul--color.color-secundario.mb-0.fa-ul
                   li
                     i.fas.fa-check
                     span.mb-0.text-white Protocolo para el monitoreo y seguimiento de la calidad del aire.
@@ -58,12 +58,12 @@
         p Las fuentes fijas puntuales, mejor conocidas como “chimeneas”, o ductos por donde se expulsan gases contaminantes (MP, SOx, NOx, CO, COV, entre otros) de las industrias que hacen parte del sector productivo que mueve la economía del país aportan de manera importante al continuo deterioro de la calidad del aire que respiramos, especialmente en las principales ciudades del país. Por esta razón, la normativa asociada a las fuentes fijas es fundamental para el seguimiento y control de las emisiones en Colombia. (IDEAM, 2014).
         .bg-green2.p-4
           h5.t-green2 Normas asociadas
-          ul.lista-ul--color.color-secundario.mb-0.ps-3
+          ul.lista-ul--color.color-secundario.mb-0.ps-3.fa-ul
             li
               i.fas.fa-check
               | Resolución 909 de 2008. Por la cual se establecen las normas y estándares de emisión admisibles de contaminantes a la atmósfera por fuentes fijas y se dictan otras disposiciones.
       .col-md-4.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema7/img.png' alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema7/img.png' alt='')
 
 
     .row.fondo-blue.align-items-center.py-5
@@ -74,12 +74,12 @@
           .col-md-12
             h3.subt.text-white.mb-4(data-aos="fade") Normas fuentes móviles
           .col-md-4.mb-4(data-aos="fade-right")
-            img(src='@/assets/curso/temas/tema7/img2.png' alt='Imagen decorativa')
+            img(src='@/assets/curso/temas/tema7/img2.png' alt='')
           .col-md-8.mb-4(data-aos="fade-left")
             p Según el portal del IDEAM, “las emisiones por fuentes móviles se producen por la quema de combustibles fósiles utilizados por el parque automotor, ya que los vehículos automotores son los principales emisores de contaminantes como óxidos de nitrógeno, monóxido de carbono, hidrocarburos no quemados, dióxidos de azufre y compuestos orgánicos volátiles”. (IDEAM, 2014).
             .bg-green2.p-4
               h5.t-green2 Normas asociadas
-              ul.lista-ul--color.color-secundario.mb-0.ps-3
+              ul.lista-ul--color.color-secundario.mb-0.ps-3.fa-ul
                 li
                   i.fas.fa-check
                   | Resolución 910 de 2008. Por la cual se reglamentan los niveles permisibles de emisión de contaminantes que deberán cumplir las fuentes móviles terrestres, se reglamenta el artículo 91 del Decreto 948 de 1995 y se adoptan otras disposiciones.

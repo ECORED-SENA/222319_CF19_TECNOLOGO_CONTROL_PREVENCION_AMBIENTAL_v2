@@ -23,12 +23,12 @@
           .row(numero="5" titulo="Zonas más afectadas")
             p Las zonas que mayor afectación que presentan importantes niveles de contaminación atmosférica son: el Área Metropolitana del Valle de Aburrá, las localidades de Puente Aranda, Carvajal y Kennedy, en Bogotá, el municipio de Ráquira, en Boyacá, y la zona industrial de ACOPI, en el municipio de Yumbo, Valle del Cauca.
       .col-md-4(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema2/img.png' alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema2/img.png' alt='')
 
 
     .row.mb-4
       .col-md-4.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/temas/tema2/img2.png' alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema2/img2.png' alt='')
       .col-md-8.mb-4(data-aos="fade-left")
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-blue2")
           .row.justify-content-center(titulo="Sistema de Información Ambiental de Colombia SIAC")
@@ -39,7 +39,7 @@
               p Es un sistema de sistemas, que gestiona información acerca del estado ambiental, el uso y aprovechamiento, la vulnerabilidad y la sostenibilidad ambiental de los recursos naturales, en los ámbitos continental y marino del territorio colombiano. Se sustenta en un proceso de concertación interinstitucional, intersectorial e interdisciplinario, liderado por el Ministerio de Ambiente y Desarrollo Sostenible (MADS) y los institutos de investigación ambiental.
           .row.justify-content-center(titulo="Los institutos de investigación ambiental")
             .col-md-11
-              ul.lista-ul--color.color-secundario.mb-0
+              ul.lista-ul--color.color-secundario.mb-0.fa-ul
                 li
                   i.fas.fa-check
                   | El Instituto de Hidrología, Meteorología y Estudios Ambientales (IDEAM).
@@ -63,10 +63,10 @@
                   | La Unidad Administrativa Especial del Sistema de Parques Nacionales Naturales (UAESPNN).
           .row.justify-content-center(titulo="SVCA")
             .col-md-11
-              p Para conocer el estado de la calidad del aire, las autoridades ambientales han instalado y puesto en operación Sistemas de Vigilancia –SVCA, según lo definido en el Protocolo para el Monitoreo y Seguimiento de la Calidad del Aire, por el Ministerio de Ambiente.
+              p Para conocer el estado de la calidad del aire, las autoridades ambientales han instalado y puesto en operación Sistemas de Vigilancia – SVCA, según lo definido en el Protocolo para el Monitoreo y Seguimiento de la Calidad del Aire, por el Ministerio de Ambiente.
           .row.justify-content-center(titulo="SVCA en aumento")
             .col-md-11
-              p El número de SVCA ha venido aumentado en los últimos años: de acuerdo con la información recopilada por el Instituto de Hidrología, Meteorología y Estudios Ambientales –IDEAM, mediante el Subsistema de Información sobre Calidad del Aire - SISAIRE, en 2018, operaron a nivel nacional 27 SVCA, conformados por 203 estaciones de monitoreo, de las cuales 169 fueron fijas y 34 indicativas.
+              p El número de SVCA ha venido aumentado en los últimos años: de acuerdo con la información recopilada por el Instituto de Hidrología, Meteorología y Estudios Ambientales – IDEAM, mediante el Subsistema de Información sobre Calidad del Aire - SISAIRE, en 2018, operaron a nivel nacional 27 SVCA, conformados por 203 estaciones de monitoreo, de las cuales 169 fueron fijas y 34 indicativas.
               
 
 
@@ -80,7 +80,7 @@
             .col-md-11
               p El Sistema de Información sobre Calidad del Aire es un sistema para la captura, almacenamiento, transferencia, procesamiento y consulta de información. También permite la generación de información unificada de las redes de calidad del aire del país.
               p El SISAIRE tiene como propósito:
-              ul.lista-ul--color.color-secundario.ps-3.mb-0
+              ul.lista-ul--color.color-secundario.ps-3.mb-0.fa-ul
                 li
                   i.fas.fa-check
                   | Recolectar información actualizada y analizada sobre calidad del aire, generada por los sistemas de Vigilancia de Calidad del Aire que son operados por las autoridades ambientales regionales y urbanas, con el propósito de garantizar la disponibilidad y la calidad de la información ambiental y su consulta por los usuarios del sistema.
@@ -100,7 +100,7 @@
                   i.fas.fa-check
                   | Conocer toda la información relacionada con la calidad del aire en el país, su ubicación y el tipo de equipos utilizados para su reporte.
       .col-md-4.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema2/img3.png' alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema2/img3.png' alt='')
 
 
 

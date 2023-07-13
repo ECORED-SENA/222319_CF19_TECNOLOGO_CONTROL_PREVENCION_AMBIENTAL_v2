@@ -25,27 +25,27 @@
               .tarjeta.color-acento-contenido.fondo-tarjetas.p-4
                 .row.justify-content-center.mb-4
                   .col-md-5.col-6
-                    img.px-md-1(src='@/assets/curso/temas/tema10/ico1.svg' alt='Icono decorativo')
+                    img.px-md-1(src='@/assets/curso/temas/tema10/ico1.svg' alt='')
                 p Descripción de la actividad que genera la emisión.
               .tarjeta.color-acento-contenido.fondo-tarjetas.p-4
                 .row.justify-content-center.mb-4
                   .col-md-5.col-6
-                    img.px-md-1(src='@/assets/curso/temas/tema10/ico2.svg' alt='Icono decorativo')
+                    img.px-md-1(src='@/assets/curso/temas/tema10/ico2.svg' alt='')
                 p Descripción de la actividad que se realiza en las instalaciones en las cuales se tiene instalado el sistema de control de emisiones atmosféricas.
               .tarjeta.color-acento-contenido.fondo-tarjetas.p-4
                 .row.justify-content-center.mb-4
                   .col-md-5.col-6
-                    img.px-md-1(src='@/assets/curso/temas/tema10/ico3.svg' alt='Icono decorativo')
+                    img.px-md-1(src='@/assets/curso/temas/tema10/ico3.svg' alt='')
                 p Identificación y caracterización de los sistemas de control de emisiones atmosféricas, incluyendo la referencia, condiciones de operación, la eficiencia de remoción de diseño y la eficiencia real de remoción.
               .tarjeta.color-acento-contenido.fondo-tarjetas.p-4
                 .row.justify-content-center.mb-4
                   .col-md-5.col-6
-                    img.px-md-1(src='@/assets/curso/temas/tema10/ico4.svg' alt='Icono decorativo')
+                    img.px-md-1(src='@/assets/curso/temas/tema10/ico4.svg' alt='')
                 p Ubicación de los sistemas de control. Se deben presentar los planos de las instalaciones con la ubicación geográfica de los sistemas de control de emisiones, incluyendo la ubicación de conexiones y otros que permitan el funcionamiento de estos.
               .tarjeta.color-acento-contenido.fondo-tarjetas.p-4
                 .row.justify-content-center.mb-4
                   .col-md-5.col-6
-                    img.px-md-1(src='@/assets/curso/temas/tema10/ico5.svg' alt='Icono decorativo')
+                    img.px-md-1(src='@/assets/curso/temas/tema10/ico5.svg' alt='')
                 p.mb-0 Identificación, análisis, explicación y respuesta a cada una de las posibles fallas de los sistemas de control de emisiones que se pueden presentar durante su operación, de acuerdo con las variables establecidas en el presente protocolo y lo establecido por el fabricante de este. (MAVDT, 2010, p. 79).
             
 

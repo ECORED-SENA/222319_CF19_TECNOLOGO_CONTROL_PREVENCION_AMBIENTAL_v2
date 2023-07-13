@@ -11,11 +11,11 @@
 
     .row
       .col-md-4.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/temas/tema8/img.svg' alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema8/img.svg' alt='')
       .col-md-8(data-aos="fade-left")
         LineaTiempoD.tema8
           .row(numero="1" titulo="Primero")
-            ul.lista-ul--color.color-secundario.ps-3.mb-0
+            ul.lista-ul--color.color-secundario.ps-3.mb-0.fa-ul
               li
                 i.fas.fa-check
                 | Resumen ejecutivo.
@@ -32,7 +32,7 @@
                 i.fas.fa-check
                 | Descripción del programa de medición.
           .row(numero="2" titulo="Seguido de")
-            ul.lista-ul--color.color-secundario.ps-3.mb-0
+            ul.lista-ul--color.color-secundario.ps-3.mb-0.fa-ul
               li
                 i.fas.fa-check
                 | Identificación del responsable de realizar la medición.
@@ -49,7 +49,7 @@
                 i.fas.fa-check
                 | Métodos analíticos.
           .row(numero="3" titulo="Luego")
-            ul.lista-ul--color.color-secundario.ps-3.mb-0
+            ul.lista-ul--color.color-secundario.ps-3.mb-0.fa-ul
               li
                 i.fas.fa-check
                 | Localización del sitio de toma de muestra.
@@ -72,7 +72,7 @@
                 i.fas.fa-check
                 | Auditoría de la medición y acciones correctivas.
           .row(numero="4" titulo="Asimismo")
-            ul.lista-ul--color.color-secundario.ps-3.mb-0
+            ul.lista-ul--color.color-secundario.ps-3.mb-0.fa-ul
               li
                 i.fas.fa-check
                 | Documentación.
@@ -86,7 +86,7 @@
                 i.fas.fa-check
                 | Reporte de errores en la evaluación de emisiones atmosféricas.
           .row(numero="5" titulo="Finalmente")
-            ul.lista-ul--color.color-secundario.ps-3.mb-0
+            ul.lista-ul--color.color-secundario.ps-3.mb-0.fa-ul
               li
                 i.fas.fa-check
                 | Pérdida o alteración de la muestra.

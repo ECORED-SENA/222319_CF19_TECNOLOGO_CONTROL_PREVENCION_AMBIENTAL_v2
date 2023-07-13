@@ -23,7 +23,7 @@
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg-blue2")
           .row.justify-content-center(titulo="Primarios")
             .col-md-11
-              ul.lista-ul--color.color-secundario.ps-3.mb-0
+              ul.lista-ul--color.color-secundario.ps-3.mb-0.fa-ul
                 li
                   i.fas.fa-check
                   | Formulario Único Nacional de Permiso de emisiones atmosféricas para fuentes fijas establecido por el Ministerio de Ambiente y Desarrollo Sostenible –MADS-, diligenciado y firmado por el solicitante.
@@ -38,7 +38,7 @@
                   | Certificado de libertad y tradición expedido dentro del mes inmediatamente anterior a la presentación de la solicitud, o documento que acredite la posesión o tenencia del solicitante, contrato de arrendamiento, comodato.
           .row.justify-content-center(titulo="Secundarios")
             .col-md-11
-              ul.lista-ul--color.color-secundario.ps-3.mb-0
+              ul.lista-ul--color.color-secundario.ps-3.mb-0.fa-ul
                 li
                   i.fas.fa-check
                   | Autorización del propietario o poseedor cuando el solicitante sea mero tenedor. (ANLA, 2020). 
@@ -51,7 +51,7 @@
           .row.justify-content-center(titulo="De información")
             .col-md-11
               p Documento con la siguiente información para cada uno de los puntos objeto de la solicitud: 
-              ol.lista-ol.ps-3
+              ol.lista-ol.ps-3.fa-ul
                 li 
                   span.text-bold a)
                   | Localización de las instalaciones, del área o de la obra. 
@@ -72,7 +72,7 @@
                   | Información técnica sobre producción prevista o actual, proyectos de expansión y proyecciones de producción a cinco (5) años.
           .row.justify-content-center(titulo="Técnicos")
             .col-md-11
-              ul.lista-ul--color.color-secundario.ps-3.mb-0
+              ul.lista-ul--color.color-secundario.ps-3.mb-0.fa-ul
                 li
                   i.fas.fa-check
                   | Estudio técnico de evaluación de las emisiones de sus procesos de combustión o producción; se deberá anexar, además, información sobre consumo de materias primas combustibles u otros materiales utilizados. 
@@ -85,9 +85,23 @@
                 li
                   i.fas.fa-check
                   | Estudio técnico de dispersión como información en proyectos para refinerías de petróleos, fábricas de cementos, plantas químicas y petroquímicas, siderúrgicas, quemas abiertas controladas en actividades agroindustriales y plantas termoeléctricas.
-
+          .row.justify-content-center(titulo="Informes y comprobantes")
+            .col-md-11
+              ul.lista-ul--color.color-secundario.ps-3.mb-0.fa-ul
+                li
+                  i.fas.fa-check
+                  | Entrega de Informe de Estado de Emisión IE-1 conforme al Artículo 2.2.5.1.10.2 Decreto 1076 del 2015, Resoluciones 1351 del 14 de noviembre de 1995 y 1619 del 21 de diciembre de 1995.
+                li
+                  i.fas.fa-check
+                  | Aplica para las cementeras, siderúrgicas, refinerías y termoeléctricas.
+                li
+                  i.fas.fa-check
+                  | Cada renovación de un permiso de emisión atmosférica requerirá la presentación de un nuevo Informe de Estados de Emisión IE-1 que contenga la información que corresponda al tiempo de su presentación.
+                li
+                  i.fas.fa-check
+                  | Copia de la autoliquidación realizada a través de VITAL y del comprobante de pago, tal cual lo establece la Resolución 324 de 2015, modificada por la resolución 1978 de 2018 de la ANLA.
       .col-md-4.mb-4(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema5/img2.png' alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema5/img2.png' alt='')
 
 
 

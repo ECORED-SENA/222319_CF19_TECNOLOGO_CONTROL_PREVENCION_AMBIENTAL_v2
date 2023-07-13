@@ -14,17 +14,16 @@
           em.bg-green “la actividad objeto de control, deberá suministrar información de los sistemas de control de emisiones a la autoridad ambiental competente, donde describa la operación del mismo, las variables de operación que indiquen que el sistema funciona adecuadamente y que se encuentra en condiciones adecuadas después de realizar mantenimiento”. (MAVDT, 2010).
         p En los equipos para control de emisiones, encontramos:
       .col-md-4(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema6/img.png' alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema6/img.png' alt='')
     
     .row.mb-4
       .col-md-3.mb-4(data-aos="fade-right")
-        img(src='@/assets/curso/temas/tema6/img2.png' alt='Imagen decorativa')
+        img(src='@/assets/curso/temas/tema6/img2.png' alt='')
       .col-md-9(data-aos="fade-left")
         TabsA.tema6.color-acento-contenido
           .tarjeta.bg-green3.p-4(titulo="Ciclones")
             h4 Ciclones
-            p Los ciclones son equipos que emplean la fuerza centrífuga y la gravedad para la remoción del material particulado de la fuente de emisión. Según el protocolo de fuentes fijas, la eficiencia de estos equipos de control de emisiones de material particulado está asociada a la caída.
-            p Requisito indispensable que los sistemas de medición de presión que se instalen sean calibrados periódicamente, a intervalos de tiempo inferiores a un (1) año.
+            p Los ciclones son equipos que emplean la fuerza centrífuga y la gravedad para la remoción del material particulado de la fuente de emisión. Según el protocolo de fuentes fijas, la eficiencia de estos equipos de control de emisiones de material particulado está asociada a la caída de presión del flujo de gases, a través del sistema; por ello, es requisito indispensable que los sistemas de medición de presión que se instalen sean calibrados periódicamente, a intervalos de tiempo inferiores a un (1) año.
           .tarjeta.bg-green3.p-4(titulo="Precipitadores Electrostáticos (PES)")
             h4 Precipitadores Electrostáticos (PES)
             p Los precipitadores electrostáticos se deben utilizar para los casos en los que se requiere alta eficiencia en la remoción de material particulado, especialmente cuando el volumen de los gases de emisión es alto y se requiere recuperar materiales valiosos sin modificaciones físicas. Un precipitador es un equipo de control de partículas que utiliza un campo eléctrico para mover las partículas fuera de la corriente del gas y sobre las placas del colector.
@@ -60,55 +59,59 @@
               .tarjeta.color-acento-contenido.fondo-tarjetas.p-4
                 .row.justify-content-center.mb-3
                   .col-md-5.col-6
-                    img.px-md-1(src='@/assets/curso/temas/tema6/ico1.svg' alt='Icono decorativo')
+                    img.px-md-1(src='@/assets/curso/temas/tema6/ico1.svg' alt='')
                 p Tener condiciones adecuadas de infraestructura; lo que se garantiza a través de una cuidadosa selección de los materiales de construcción, inspecciones regulares y manteniendo las puertas y ventanas cerradas (puertas automáticas, cortinas flexibles).
               .tarjeta.color-acento-contenido.fondo-tarjetas.p-4
                 .row.justify-content-center.mb-3
                   .col-md-5.col-6
-                    img.px-md-1(src='@/assets/curso/temas/tema6/ico2.svg' alt='Icono decorativo')
+                    img.px-md-1(src='@/assets/curso/temas/tema6/ico2.svg' alt='')
                 p En el caso de operaciones de proceso realizadas al aire libre, se deben cubrir los materiales olorosos y realizar limpiezas frecuentes
               .tarjeta.color-acento-contenido.fondo-tarjetas.p-4
                 .row.justify-content-center.mb-3
                   .col-md-5.col-6
-                    img.px-md-1(src='@/assets/curso/temas/tema6/ico3.svg' alt='Icono decorativo')
+                    img.px-md-1(src='@/assets/curso/temas/tema6/ico3.svg' alt='')
                 p Instalación de líneas de retorno para recircular vapores en el momento en que se llenan o descargan tanques. En caso de transferencia de sustancias que solo impacten el aire por su naturaleza olorosa, puede ser suficiente trasladar el punto de descarga lejos del receptor sensible.
               .tarjeta.color-acento-contenido.fondo-tarjetas.p-4
                 .row.justify-content-center.mb-3
                   .col-md-5.col-6
-                    img.px-md-1(src='@/assets/curso/temas/tema6/ico4.svg' alt='Icono decorativo')
+                    img.px-md-1(src='@/assets/curso/temas/tema6/ico4.svg' alt='')
                 p Cubrir tanques o lagunas con potencial de generar olores siempre que sea posible, en su defecto, reducir el área superficial. Además, se debe procurar llenar los contenedores por el fondo para evitar perturbar la superficie.
               .tarjeta.color-acento-contenido.fondo-tarjetas.p-4
                 .row.justify-content-center.mb-3
                   .col-md-5.col-6
-                    img.px-md-1(src='@/assets/curso/temas/tema6/ico5.svg' alt='Icono decorativo')
+                    img.px-md-1(src='@/assets/curso/temas/tema6/ico5.svg' alt='')
                 p Hacer mantenimiento preventivo de válvulas, bombas, compresores, sellos, entre otros.
               .tarjeta.color-acento-contenido.fondo-tarjetas.p-4
                 .row.justify-content-center.mb-3
                   .col-md-5.col-6
-                    img.px-md-1(src='@/assets/curso/temas/tema6/ico6.svg' alt='Icono decorativo')
+                    img.px-md-1(src='@/assets/curso/temas/tema6/ico6.svg' alt='')
                 p Evitando mezclar sustancias incompatibles que puedan generar productos olorosos.
               .tarjeta.color-acento-contenido.fondo-tarjetas.p-4
                 .row.justify-content-center.mb-3
                   .col-md-5.col-6
-                    img.px-md-1(src='@/assets/curso/temas/tema6/ico7.svg' alt='Icono decorativo')
+                    img.px-md-1(src='@/assets/curso/temas/tema6/ico7.svg' alt='')
                 p Las materias primas, productos y residuos deben ser almacenados apropiadamente, por ejemplo, la recepción de materiales debe ser vigilada de manera tal que se rechace si se encuentra en mal estado y su posterior manipulación puede involucrar la liberación de olores.
               .tarjeta.color-acento-contenido.fondo-tarjetas.p-4
                 .row.justify-content-center.mb-3
                   .col-md-5.col-6
-                    img.px-md-1(src='@/assets/curso/temas/tema6/ico8.svg' alt='Icono decorativo')
+                    img.px-md-1(src='@/assets/curso/temas/tema6/ico8.svg' alt='')
                 p Los materiales susceptibles de descomposición deben ser refrigerados y procesados tan rápido como sea posible; asimismo, evitar condiciones que fomenten la descomposición anaerobia. Buenas prácticas de limpieza.
               .tarjeta.color-acento-contenido.fondo-tarjetas.p-4
                 .row.justify-content-center.mb-3
                   .col-md-5.col-6
-                    img.px-md-1(src='@/assets/curso/temas/tema6/ico9.svg' alt='Icono decorativo')
+                    img.px-md-1(src='@/assets/curso/temas/tema6/ico9.svg' alt='')
                 p Si es posible, ajustar los procesos para evitar su funcionamiento en fines de semana o en las noches, o realizar algunas operaciones particulares cuando el viento sea favorable.
-
+              .tarjeta.color-acento-contenido.fondo-tarjetas.p-4
+                .row.justify-content-center.mb-3
+                  .col-md-5.col-6
+                    img.px-md-1(src='@/assets/curso/temas/tema6/ico10.svg' alt='')
+                p Capacitar adecuadamente al personal sobre la generación, prevención y mitigación de olores ofensivos.
 
           p.mb-4(data-aos="fade") A continuación, se muestran técnicas más específicas, como la reducción, dilución y dispersión, para la mitigación y control de olores ofensivos en los espacios y procesos de producción de las organizaciones o proyectos. Preste especial atención a la información y tome nota de los aspectos más fundamentales. ¡Adelante!
 
           .row.justify-content-center.align-items-center
             .col-md-3(data-aos="fade-right")
-              img(src='@/assets/curso/temas/tema6/img3.svg' alt='Imagen decorativa')
+              img(src='@/assets/curso/temas/tema6/img3.svg' alt='')
             .col-md-6(data-aos="fade-left")
               SlyderE.bg-white.box-shadow.p-4.px-md-5(indicadores="derecha")
                 .row
