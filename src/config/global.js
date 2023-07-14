@@ -187,7 +187,7 @@ export default {
         'Autoridad Nacional de Licencias Ambientales [ANLA]. (2020). <em>PEAFF Mecanismo de radicación dispuesto por la ANLA para realizar una solicitud de permiso de emisiones atmosféricas para fuentes fijas mediante vital - Paso a Paso. </em>',
       tipo: 'Documento',
       link:
-        'http://portal.anla.gov.co/sites/default/files/comunicaciones/permisos/instructivo_vital_emisiones_atmosferica.pdf',
+        'https://www.anla.gov.co/01_anla/250-tramites-y-servicios/tramites/permisos-y-autorizaciones/emisiones-atmosfericas-fuentes-fijas',
     },
   ],
   glosario: [
@@ -242,13 +242,13 @@ export default {
       referencia:
         'Autoridad Nacional de Licencias Ambientales [ANLA]. (2020a). <em>PEAFF Mecanismo de radicación dispuesto por la ANLA para realizar una solicitud de permiso de emisiones atmosféricas para fuentes fijas mediante vital - Paso a Paso. </em>',
       link:
-        'http://portal.anla.gov.co/sites/default/files/comunicaciones/permisos/instructivo_vital_emisiones_atmosferica.pdf',
+        'https://www.anla.gov.co/01_anla/250-tramites-y-servicios/tramites/permisos-y-autorizaciones/emisiones-atmosfericas-fuentes-fijas',
     },
     {
       referencia:
         'Autoridad Nacional de Licencias Ambientales [ANLA]. (2020b). <em>Permiso de emisiones atmosféricas para fuentes fijas</em>',
       link:
-        'http://portal.anla.gov.co/permiso-emisiones-atmosfericas-fuentes-fijas',
+        'https://www.anla.gov.co/01_anla/permiso-y-autorizacion-emisiones-atmosfericas-fuentes-fijas',
     },
     {
       referencia:
@@ -275,7 +275,7 @@ export default {
       referencia:
         'Ministerio de Ambiente, Vivienda y Desarrollo Territorial [MAVDT]. (2008). <em>Protocolo para el monitoreo y seguimiento de la Calidad del aire.</em> ',
       link:
-        'http://www.ideam.gov.co/documents/51310/527391/Protocolo+para+el+Monitoreo+y+seguimiento+de+la+calidad+del+aire.pdf/6b2f53c8-6a8d-4f3d-b210-011a45f3ee88',
+        'https://www.minambiente.gov.co/wp-content/uploads/2021/06/Protocolo_Calidad_del_Aire_-_Manual_Diseno.pdf',
     },
     {
       referencia:
