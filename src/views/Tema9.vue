@@ -29,7 +29,7 @@
                 .row.justify-content-center.mb-4
                   .col-md-4.col-5
                     img.px-md-2(src='@/assets/curso/temas/tema9/ico1.svg' alt='')
-                p No requiere de una planificación sistemática y se pone en práctica en el momento en que los equipos presentan una falla; en otras palabras, el mantenimiento se reduce a la reparación del equipo o maquinaria, produciendo un stop para un proceso de fabricación y disminuyendo la producción. Cuando se para un equipo de control por presentar una falla, no se puede seguir operando el proceso productivo. Aquí es importante poner en marcha los planes de contingencia para poder cumplir con la normativa asociada.
+                p No requiere de una planificación sistemática y se pone en práctica en el momento en que los equipos presentan una falla; en otras palabras, el mantenimiento se reduce a la reparación del equipo o maquinaria, produciendo un <em>stop</em> para un proceso de fabricación y disminuyendo la producción. Cuando se para un equipo de control por presentar una falla, no se puede seguir operando el proceso productivo. Aquí es importante poner en marcha los planes de contingencia para poder cumplir con la normativa asociada.
             .col-md-6(data-aos="fade-down")
               .tarjeta.bg-primario.p-4.p-md-5.h-100
                 h3.t-green2.text-center.mb-4 Preventivo

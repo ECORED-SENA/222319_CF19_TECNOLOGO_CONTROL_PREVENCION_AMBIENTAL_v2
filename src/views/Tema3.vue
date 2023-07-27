@@ -141,11 +141,11 @@
 
     .row.mb-4
       .col-md-7.mb-4(data-aos="fade-right")
-        p Estos métodos son los mejores en términos de la alta resolución de sus mediciones, permitiendo llevar a cabo mediciones de forma continua para conceCntraciones horarias y menores.
+        p Estos métodos son los mejores en términos de la alta resolución de sus mediciones, permitiendo llevar a cabo mediciones de forma continua para concentraciones horarias y menores.
         p El espectro de contaminantes que se pueden determinar va desde los contaminantes criterio (PM10-PM2.5, CO, SO<sub>2</sub>, NO<sub>2</sub>, O<sub>3</sub>) hasta tóxicos en el aire, como mercurio y algunos compuestos orgánicos volátiles. Las muestras colectadas se analizan utilizando una variedad de métodos, los cuales incluyen la espectroscopía y cromatografía de gases. Además, estos métodos tienen la ventaja de que, una vez que se carga la muestra al sistema, dan las lecturas de las concentraciones de manera automática y en tiempo real. (INE, 2020, p. 18)
         p Dentro del muestreo automático encontramos:
         .bg-blue.p-4
-          h5 Analizadores automáticos
+          h4.t-green2 Analizadores automáticos
           p.mb-0 Según el Protocolo de Calidad del Aire (MAVDT, 2010, p.79), los analizadores automáticos permiten evaluar el comportamiento de los contaminantes atmosféricos, tanto en el tiempo como en el espacio.
       .col-md-5(data-aos="fade-left")
         img(src='@/assets/curso/temas/tema3/img5.png' alt='')
@@ -218,7 +218,8 @@
             ul.lista-ul--color.color-secundario.mb-0.ps-3.fa-ul
               li.mb-4
                 i.fas.fa-check
-                | Los equipos basados en el método Tapered Element Oscillating Microbalance utilizan un filtro intercambiable montado al final de un tubo hueco afilado.
+                span.mb-0 Los equipos basados en el método 
+                  <em>Tapered Element Oscillating Microbalance</em> utilizan un filtro intercambiable montado al final de un tubo hueco afilado.
               li.mb-4
                 i.fas.fa-check
                 | El extremo ancho del tubo es fijo.
@@ -473,7 +474,7 @@
               p Las fuentes móviles se constituyen en el sector más representativo en la generación de contaminantes criterio que afectan considerablemente la atmósfera respirable. Las fuentes móviles se establecen como parte del control: “El monitoreo de vehículos en las vías es una actividad de control, realizada con el fin de verificar y corroborar el impacto de las normas y resoluciones establecidas por el Ministerio del Medio Ambiente, Vivienda y Desarrollo Territorial, así como su cumplimiento por parte de los conductores”. (Área Metropolitana de Bucaramanga, 2020)
           .row.justify-content-center(titulo="Control a fuentes móviles")
             .col-md-11
-              p “Las pruebas realizadas durante el operativo permiten el análisis de emisión de gases estipulado en las normas colombianas en lo que a fuentes móviles respecta, donde se miden las condiciones normales de operación del automotor, como son: las revoluciones por minuto, la temperatura de operación en el Carter del motor y las concentraciones de monóxido de carbono (CO), dióxido de carbono (CO<sub>2</sub>), hidrocarburos (HC) y oxígeno (O2) en los productos de la combustión interna del motor. Evaluando a su vez que se encuentren dentro de los niveles de óptimo funcionamiento del motor, siguiendo los lineamientos y metodologías planteadas en las normas NTC 4983, NTC 4231, NTC 5365, así también como en la Resolución 0910 de 2008 y los preceptos exigidos por el Protocolo del IDEAM”
+              p “Las pruebas realizadas durante el operativo permiten el análisis de emisión de gases estipulado en las normas colombianas en lo que a fuentes móviles respecta, donde se miden las condiciones normales de operación del automotor, como son: las revoluciones por minuto, la temperatura de operación en el Carter del motor y las concentraciones de monóxido de carbono (CO), dióxido de carbono (CO<sub>2</sub>), hidrocarburos (HC) y oxígeno (O<sub>2</sub>) en los productos de la combustión interna del motor. Evaluando a su vez que se encuentren dentro de los niveles de óptimo funcionamiento del motor, siguiendo los lineamientos y metodologías planteadas en las normas NTC 4983, NTC 4231, NTC 5365, así también como en la Resolución 0910 de 2008 y los preceptos exigidos por el Protocolo del IDEAM”
       
 
 </template>

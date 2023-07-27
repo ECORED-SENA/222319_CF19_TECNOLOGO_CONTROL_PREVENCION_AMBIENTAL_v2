@@ -16,7 +16,7 @@
 
           .col-md-12
             h3.subt.text-white.mb-4(data-aos="fade") Normas calidad del aire
-            p.mb-4(data-aos="fade") Las normas de calidad del aire en Colombia se convierten en la base para el seguimiento, así lo afirma el Instituto de Hidrología Meteorología y Estudios Ambientales –IDEAM.
+            p.mb-4(data-aos="fade") Las normas de calidad del aire en Colombia se convierten en la base para el seguimiento, así lo afirma el Instituto de Hidrología, Meteorología y Estudios Ambientales –IDEAM.
 
           .row
             .col-md-6(data-aos="fade-down")
